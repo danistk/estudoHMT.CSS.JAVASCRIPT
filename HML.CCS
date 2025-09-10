@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+<style>
+
+body {
+  background-color: linen;
+}
+
+
+h1 {
+  
+  color: maroon;
+  margin-left: 40px;
+  
+}
+
+h2{
+   color: maroon;
+   margin-left: 70px;
+
+}
+
+p{
+  color: green;
+  text-align: justify;
+  
+}
+
+</style>
+</head>
+</body>
+</html>
+   
+   
+   <h1>Titulo com h1</h1>
+   <p> texto do paragrafo. Estamos estudando o uso de paginas web, estruturadas com HTML. </p>
+   <h2>Titulo com h1</h2>
+   <p> Com CSS, podemos alterar o estulo de paginas web. Podmos inserir os codigos CSS de diferentes       formas. Neste exemplo, estamos utlizando o CSS interno, para facilitar a vizualização.</p>
+   
+   
+   </body>
+   </html>
