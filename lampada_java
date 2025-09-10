@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+       
+       <h2> O que JavaScript pode fazer </h2>
+       
+       <p> javaScript pode alterar os valores dos atributos HTM.</p>
+       
+       <p> Neste exemplo, o JavaScript altera o valord o atributo src(Source) de uma imagem.</p>
+       
+       
+       <Button onclick = "document.getElementById('myimage').src ='pic_bulbon.gif'">Acender</button>
+       
+       <img id='myimage' src= "pic_bulboff.gif" style="width:100px">
+       
+       <button onclick ="document.getElementById('myimage').src='pic_bulboff'">Apagar</button>
+
+
+   </body>
+   </html>
